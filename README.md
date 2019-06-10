@@ -1,11 +1,13 @@
 # Image processing examples with Numpy, Scipy, and Scikit-image
 
 ### Simple NumPy array based operations
-[Demo of NumPy based image manipulation](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Using_Numpy_image_manipulation.ipynb)<br>
+* [Demo of NumPy based image manipulation](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Using_Numpy_image_manipulation.ipynb)<br>
 <img src="https://raw.githubusercontent.com/tirthajyoti/Scikit-image-processing/master/images/Numpy_image_manipulation.png" width="700" height="200" />
 
-[* Block view function and pooling/sampling](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Block_view_mean_max_median_sampling.ipynb)<br>
+* [Block view function and pooling/sampling](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Block_view_mean_max_median_sampling.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/block_view_pooling_sampling.PNG" width="350" height="350" />
+
+---
 
 ### Exposure and color channel manipulations
 * [RGB to gray conversion](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/RGB2Gray.ipynb)<br>
