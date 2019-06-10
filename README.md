@@ -22,3 +22,6 @@
 
 * [Adjusting contrast by filtering regional maxima](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Filtering_regional_maxima.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/filtering_regional_maxima.PNG" width="600" height="170" />
+
+* [Local Histogram equalization](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Local_Histogram_Equalization.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/Local_histogram_equalization.PNG" width="400" height="280" />
