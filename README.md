@@ -25,3 +25,13 @@
 
 * [Local Histogram equalization](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Local_Histogram_Equalization.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/Local_histogram_equalization.PNG" width="400" height="280" />
+
+* [Gamma and log contrast](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Gamma_log_contrast_adjustment.ipynb)
+
+* [Tinting grayscale images](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Tint_Grayscale.ipynb)
+
+---
+
+### Edges, lines, and contours
+
+* [Finding contours](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Finding_contours.ipynb)
