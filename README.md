@@ -28,7 +28,8 @@
 
 * [Gamma and log contrast](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Gamma_log_contrast_adjustment.ipynb)
 
-* [Tinting grayscale images](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Tint_Grayscale.ipynb)
+* [Tinting grayscale images](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Tint_Grayscale.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/tint_grayscale.PNG" width="400" height="280" />
 
 ---
 
