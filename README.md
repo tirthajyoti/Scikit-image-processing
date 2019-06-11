@@ -34,4 +34,8 @@
 
 ### Edges, lines, and contours
 
-* [Finding contours](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Finding_contours.ipynb)
+* [Finding contours](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Finding_contours.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/finding_contours.png" width="600" height="240" />
+
+* [Convex Hull of an image](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Convex_Hull.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/convex_hull.PNG" width="600" height="240" />
