@@ -14,6 +14,23 @@
 
 ---
 
+### Testing after install
+
+Open a Jupyter notebook and execute the following code,
+```
+import numpy as np
+import matplotlib.pyplot as plt
+from skimage import data, io, filters
+
+image = data.coins()  # or any NumPy array!
+edges = filters.sobel(image)
+io.imshow(edges)
+```
+
+You should see the following output. If you see this, you are all set to go!
+
+---
+
 ### Simple NumPy array based operations
 * [Demo of NumPy based image manipulation](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Using_Numpy_image_manipulation.ipynb)<br>
 <img src="https://raw.githubusercontent.com/tirthajyoti/Scikit-image-processing/master/images/Numpy_image_manipulation.png" width="700" height="200" />
