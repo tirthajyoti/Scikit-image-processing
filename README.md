@@ -7,10 +7,10 @@
 ### Requirements
 
 * **Python 3.x**
-* **NumPy (`pip install numpy`)**
-* **SciPy (`pip install scipy`)**
-* **MatplotLib (`pip install matplotlib`)**
-* **Scikit-image (`pip install scikit-image`)**
+* **NumPy (`$ pip install numpy`)**
+* **SciPy (`$ pip install scipy`)**
+* **MatplotLib (`$ pip install matplotlib`)**
+* **Scikit-image (`$ pip install scikit-image`)**
 
 ---
 
