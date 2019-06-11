@@ -12,6 +12,8 @@
 * **MatplotLib (`pip install matplotlib`)**
 * **Scikit-image (`pip install scikit-image`)**
 
+---
+
 ### Simple NumPy array based operations
 * [Demo of NumPy based image manipulation](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Using_Numpy_image_manipulation.ipynb)<br>
 <img src="https://raw.githubusercontent.com/tirthajyoti/Scikit-image-processing/master/images/Numpy_image_manipulation.png" width="700" height="200" />
