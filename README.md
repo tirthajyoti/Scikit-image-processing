@@ -1,4 +1,16 @@
+### Please feel free to [connect with me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
+
+---
+
 # Image processing examples with Numpy, Scipy, and Scikit-image
+
+### Requirements
+
+* **Python 3.x**
+* **NumPy (`pip install numpy`)**
+* **SciPy (`pip install scipy`)**
+* **MatplotLib (`pip install matplotlib`)**
+* **Scikit-image (`pip install scikit-image`)**
 
 ### Simple NumPy array based operations
 * [Demo of NumPy based image manipulation](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Using_Numpy_image_manipulation.ipynb)<br>
