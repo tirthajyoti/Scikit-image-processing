@@ -54,3 +54,6 @@
 
 * [Convex Hull of an image](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Convex_Hull.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/convex_hull.PNG" width="600" height="240" />
+
+* [Skeletonize 2-D and 3-D images](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Skeletonize.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/skeletonize.png" width="360" height="280" />
