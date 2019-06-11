@@ -29,6 +29,8 @@ io.imshow(edges)
 
 You should see the following output. If you see this, you are all set to go!
 
+![sobel_coins](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/sobel_coins.PNG)
+
 ---
 
 ### Simple NumPy array based operations
