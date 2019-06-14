@@ -76,3 +76,6 @@ You should see the following output. If you see this, you are all set to go!
 
 * [Skeletonize 2-D and 3-D images](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Skeletonize.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/skeletonize.png" width="360" height="280" />
+
+* [Marching cubes](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Marching_cubes.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/marching_cubes.PNG" width="350" height="300" />
