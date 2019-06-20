@@ -79,3 +79,14 @@ You should see the following output. If you see this, you are all set to go!
 
 * [Marching cubes](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Marching_cubes.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/marching_cubes.PNG" width="400" height="400" />
+
+* [Edge operators](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Edge_operators.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/edge_operators.png" width="600" height="400" />
+
+---
+
+### Geometrical transformations and registration
+
+* [Swirl](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Swirl.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/Swirl.png" width="400" height="200" />
+
