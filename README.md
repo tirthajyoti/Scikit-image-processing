@@ -6,7 +6,7 @@
 
 ### Requirements
 
-* **Python 3.4+
+* **Python 3.4+**
 * **NumPy (`$ pip install numpy`)**
 * **SciPy (`$ pip install scipy`)**
 * **MatplotLib (`$ pip install matplotlib`)**
