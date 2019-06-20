@@ -90,3 +90,12 @@ You should see the following output. If you see this, you are all set to go!
 * [Swirl](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Swirl.ipynb)<br>
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/Swirl.png" width="400" height="200" />
 
+* [Interpolation - edge modes](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Interpolation%20-%20Edge%20modes.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/interpolation_edge_mode.PNG" width="400" height="200" />
+
+* [Rescale, resize, downscale](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Rescale_resize_downscale.ipynb)
+
+* [Histogram matching](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Histogram_matching.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/histogram_matching.PNG" width="400" height="130" />
+
+* [Structural similarity index](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Structural_similarity_index.ipynb)
