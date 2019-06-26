@@ -99,3 +99,13 @@ You should see the following output. If you see this, you are all set to go!
 <img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/histogram_matching.PNG" width="400" height="130" />
 
 * [Structural similarity index](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Structural_similarity_index.ipynb)
+
+### Filtering and restoration
+
+[Hysteresis thresholding](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Hysteresis_thresholding.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/Hysteresis_thresholding.PNG" width="400" height="400" />
+
+[Image deconvolution](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Image_deconvolution.ipynb)
+
+[Unsharp mask](https://github.com/tirthajyoti/Scikit-image-processing/blob/master/Unsharp_mask.ipynb)<br>
+<img src="https://github.com/tirthajyoti/Scikit-image-processing/blob/master/images/unsharp_mask.PNG" width="400" height="400" />
